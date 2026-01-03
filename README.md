@@ -5,12 +5,12 @@
   <h1 align="center">Yo, I'm Andika! 👋</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=CCFF00&center=true&vCenter=true&width=435&lines=Java+Developer;Web+Back-End+Enthusiast;Android+App+Builder;Coffee+Consumer+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=CCFF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Web+Back-End+Enthusiast;Android+App+Builder;Coffee+Consumer+;Racer+%E2%98%95" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <b>Code. Eat. Sleep. Repeat. 💻</b><br>
-    <i>Mahasiswa IT yang hobi ngoding Java Sambil Mikirin Riset Motor Balap.</i>
+    <i>Mahasiswa IT yang hobi ngoding Web Sambil Mikirin Riset Motor Balap.</i>
   </p>
 
 </div>
