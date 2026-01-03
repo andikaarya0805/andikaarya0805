@@ -17,13 +17,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/master/public/images/pacman.svg" width="100%" height="40px" alt="pacman animation" />
-</div>
-
-<br>
 
 ### 🚀 About Me
 
