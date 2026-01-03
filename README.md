@@ -1,28 +1,36 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
 
   <h1 align="center">Yo, I'm Andika! 👋</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=CCFF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Web+Back-End+Enthusiast;Android+App+Builder;Coffee+Consumer+;Racer+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=CCFF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Web+Back-End+Enthusiast;Android+App+Builder;Motor+Racer+%F0%9F%8F%8D%EF%B8%8F%F0%9F%92%A8;Coffee+Consumer+%E2%98%95" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>Code. Eat. Sleep. Repeat. 💻</b><br>
-    <i>Mahasiswa IT yang hobi ngoding Web Sambil Mikirin Riset Motor Balap.</i>
+    <b>Code. Eat. Sleep. Race. Repeat. 🏁</b><br>
+    <i>Mahasiswa IT yang hobi ngoding Web sambil mikirin riset motor balap.</i>
   </p>
+
+  <img src="https://komarev.com/ghpvc/?username=andikaarya0805&label=Profile%20Views&color=ccff00&style=for-the-badge&logo=github" alt="andikaarya0805" />
 
 </div>
 
----
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/master/public/images/pacman.svg" width="100%" height="40px" alt="pacman animation" />
+</div>
+
+<br>
 
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **MakanCuy (Gen Z Food Order App)**
-- 🌱 I’m currently learning **Java Servlet, Android (Room DB), & React,Laravel**
-- 💬 Ask me about **Java, JSP, & SQL**
-- ⚡ Fun fact: **Coding tanpa error itu mitos.**
+- 🌱 I’m currently learning **Java Servlet, Android (Room DB), React, & Laravel**
+- 💬 Ask me about **Java, JSP, SQL, & Karburator** 🔧
+- ⚡ Fun fact: **Coding tanpa error itu mitos, sama kayak motor kenceng tapi irit.**
 
 ---
 
@@ -31,23 +39,24 @@
 <div align="center">
 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <br>
 
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <br>
 
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   
 </div>
+
 ---
 
 ### 🔥 Featured Project
@@ -85,8 +94,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andikaarya0805&theme=radical&hide_border=true&background=0d0d0d&ring=ccff00&currStreakLabel=ccff00" alt="streak graph" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake eating contribution graph" />
+</div>
+
 ---
 
 <div align="center">
-  <small>Credit: Dibuat sambil nyetting karbu</small>
+  <small>Credit: Dibuat sambil nyetting karbu 🔧🏍️</small>
 </div>
